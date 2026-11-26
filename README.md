@@ -18,7 +18,7 @@
 - **France:** Eiffel Tower, Louvre Museum, Parisian fashion, croissants, and streets.
 
 ## 4. Project Links
-- **Live Website (GitHub Pages):** [https://kunalthecreator99.github.io/cw-la-A5-g5/]
+- **Live Website (GitHub Pages):** [https://kunalthecreator99.github.io/cw-la-A5-g5/CWS%20Practical%2010/website/]
 - **Figma File (View-Only):** [https://www.figma.com/design/JK4YoLcyyq0brmJvygvgEo/CWS-Practical-10-LA2?node-id=0-1&t=paR3ZlASaEhdEHwP-1]
 
 ## 5. Design Specs (Matched to Website)
