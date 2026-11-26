@@ -7,10 +7,10 @@
 - **Group Number:** Group [5]
 
 ## 2. Team Members & Roles
-1. **Dhruv Dibbe (A5_B1_09):** [Dhruv worked on website creation]
-2. **Mrunmay Mahajan (A5_B1_04):** [Mrunmay worked on website Styling]
-3. **Kunal Waghmare (A5_B2_25):** [Kunal worked on making Figma Slides]
-4. **Ved Lonarkar (A5_B2_42):** [Ved worked on Figma Animation and Video creation]
+1. **Dhruv Dibbe (A5_B1_09):** :Dhruv worked on website creation
+2. **Mrunmay Mahajan (A5_B1_04):** :Mrunmay worked on website Styling
+3. **Kunal Waghmare (A5_B2_25):** :Kunal worked on making Figma Slides
+4. **Ved Lonarkar (A5_B2_42):** :Ved worked on Figma Animation and Video creation
 
 ## 3. Countries Covered
 - **Japan:** Mount Fuji, Tokyo, Kyoto, tea ceremonies, sushi, and ramen.
@@ -18,7 +18,7 @@
 - **France:** Eiffel Tower, Louvre Museum, Parisian fashion, croissants, and streets.
 
 ## 4. Project Links
-- **Live Website (GitHub Pages):** [Paste your GitHub Pages link here]
+- **Live Website (GitHub Pages):** [https://kunalthecreator99.github.io/cw-la-A5-g5/]
 - **Figma File (View-Only):** [https://www.figma.com/design/JK4YoLcyyq0brmJvygvgEo/CWS-Practical-10-LA2?node-id=0-1&t=paR3ZlASaEhdEHwP-1]
 
 ## 5. Design Specs (Matched to Website)
