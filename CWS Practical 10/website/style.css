@@ -1,0 +1,211 @@
+/* Travel Diary Colors:
+   Background: #F8F3E9 (Cream)
+   Main:       #594638 (Dark Brown)
+   Secondary:  #89977A (Sage Green)
+   Highlight:  #C77B55 (Terracotta)
+   Text:       #333333 (Dark Grey)
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #F8F3E9;
+  color: #333333;
+  font-family: "Open Sans", Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, .navbar-brand {
+  font-family: "Lora", Georgia, serif;
+}
+
+/* Navbar */
+.diary-nav {
+  background-color: #F8F3E9;
+  border-bottom: 2px solid #DDD2C0;
+}
+
+.diary-nav .navbar-brand {
+  color: #594638;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.diary-nav .nav-link {
+  color: #594638;
+  font-weight: 600;
+}
+
+.diary-nav .nav-link:hover {
+  color: #C77B55;
+}
+
+/* Hero Section */
+.hero {
+  min-height: 70vh;
+  padding: 60px 0;
+  color: #FFFFFF;
+  background-color: #594638;
+  background-image: linear-gradient(rgba(89, 70, 56, 0.6), rgba(51, 51, 51, 0.6)), url("images/Hero Banner.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-text {
+  max-width: 650px;
+  color: #F8F3E9;
+}
+
+/* Buttons */
+.btn-main {
+  background-color: #C77B55;
+  color: #FFFFFF;
+  border: none;
+  font-weight: 600;
+}
+
+.btn-main:hover {
+  background-color: #B46945;
+  color: #FFFFFF;
+}
+
+.btn-sage {
+  background-color: #89977A;
+  color: #FFFFFF;
+  border: none;
+  font-weight: 600;
+}
+
+.btn-sage:hover {
+  background-color: #748266;
+  color: #FFFFFF;
+}
+
+/* Section Backgrounds */
+.bg-cream {
+  background-color: #F8F3E9;
+}
+
+.bg-beige {
+  background-color: #EFE7D8;
+  border-top: 1px solid #DDD2C0;
+  border-bottom: 1px solid #DDD2C0;
+}
+
+/* Headings */
+.section-title {
+  color: #594638;
+  font-weight: 700;
+}
+
+.country-heading {
+  color: #594638;
+  font-weight: 700;
+  border-bottom: 2px solid #C77B55;
+  padding-bottom: 8px;
+  display: inline-block;
+}
+
+.sub-heading {
+  color: #594638;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+/* Cards & Photos */
+.country-card {
+  background-color: #FFFFFF;
+  border: 1px solid #DDD2C0;
+  border-radius: 8px;
+}
+
+.country-card .card-title {
+  color: #594638;
+}
+
+.card-photo,
+.gallery-img,
+.main-photo {
+  width: 100%;
+  object-fit: cover;
+  background-color: #E5DACA;
+  color: #594638;
+}
+
+.card-photo {
+  height: 220px;
+}
+
+.gallery-img {
+  height: 180px;
+}
+
+.main-photo {
+  height: 290px;
+  border-radius: 6px;
+}
+
+.photo-box {
+  background-color: #FFFFFF;
+  border: 1px solid #DDD2C0;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.photo-caption {
+  margin: 8px 0 0;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #594638;
+}
+
+/* Info Cards */
+.info-card {
+  background-color: #FFFFFF;
+  border: 1px solid #DDD2C0;
+  border-left: 4px solid #89977A;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.info-card h3 {
+  color: #C77B55;
+  font-size: 1.15rem;
+}
+
+.info-card ul {
+  padding-left: 18px;
+  margin-bottom: 0;
+}
+
+.info-card li {
+  margin-bottom: 8px;
+}
+
+/* About Box */
+.about-box {
+  background-color: #FFFFFF;
+  border: 1px solid #DDD2C0;
+  border-top: 4px solid #C77B55;
+  border-radius: 8px;
+  padding: 30px;
+}
+
+/* Footer */
+.diary-footer {
+  background-color: #594638;
+  color: #F8F3E9;
+}
+
+.diary-footer h3 {
+  color: #C77B55;
+}
+
+.diary-footer li,
+.diary-footer p {
+  color: #F8F3E9;
+}
